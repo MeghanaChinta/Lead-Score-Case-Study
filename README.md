@@ -1,4 +1,4 @@
-Lead-Score-Case-Study
+**Lead-Score-Case-Study**
 
 Lead Scoring for X Education
 A case study in Logistic Regression
@@ -9,5 +9,5 @@ The company markets its courses on several websites and search engines like Goog
 
 Now, although X Education gets a lot of leads, its lead conversion rate is very poor. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
 
-Objective:
+**Objective:**
 The objective is to help X Education select the most promising leads by building a model and assigning a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
